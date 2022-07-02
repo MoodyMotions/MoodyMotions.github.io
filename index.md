@@ -1,19 +1,14 @@
 ## Welcome to Moody Motions
 
-Google PlayStore Site [link](https://github.com/MoodyMotions/MoodyMotions.github.io/edit/main/index.md)
+Google PlayStore Site [link](https://play.google.com/store/apps/dev?id=5116296066409844440)
 
 
 ### What Does The Company Do?
 
 Make games for the gamers to enjoy and spend their time cherishing the games.
 
-```markdown
-Active Games
 
-# [The Cube Game](https://github.com/MoodyMotions/MoodyMotions.github.io/edit/main/index.md)
+###Active Games
 
+[The Cube Game](https://moodymotions.github.io/TheCubeGame)
 
-$**Bold** and _Italic_ and `Code` text
-
-$[Link](url) and ![Image](src)
-```
