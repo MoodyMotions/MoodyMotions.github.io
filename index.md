@@ -10,10 +10,8 @@ Make games for the gamers to enjoy and spend their time cherishing the games.
 ```markdown
 Active Games
 
-# [The Cube Game](https://github.com/MoodyMotions/MoodyMotions.github.io/edit/main/index.md)
+#[The Cube Game](https://github.com/MoodyMotions/MoodyMotions.github.io/edit/main/index.md)
 
 
-$**Bold** and _Italic_ and `Code` text
 
-$[Link](url) and ![Image](src)
 ```
