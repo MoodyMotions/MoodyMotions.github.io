@@ -9,13 +9,21 @@ Google PlayStore Site [link](https://play.google.com/store/apps/dev?id=511629606
 ### What information do we collect?
 
 The following information is collected through firebase & unity ads:
+
 -Device & other IDs
+
 -Approximate Location
+
 -App Interactions and other actions
+
 -Purchase History
+
 -Diagnostics
+
 -User IDs
+
 -Crash Logs
+
 
 ### How do we use the information?
 
