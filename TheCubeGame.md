@@ -2,6 +2,7 @@
 
 # The Cube Game
 
+Google PlayStore Site [link](https://play.google.com/store/apps/dev?id=5116296066409844440)
 
 ## Privacy Policy
 
